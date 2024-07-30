@@ -72,6 +72,6 @@ public class MiniStatement extends JFrame implements ActionListener {
         this.setVisible(false);
     }
     public static void main(String[] args) {
-        new sample("").setVisible(true);
+        new MiniStatement("").setVisible(true);
     }
 }
